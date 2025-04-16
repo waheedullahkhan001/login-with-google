@@ -8,7 +8,7 @@ Basically, you need to create three OAuth 2.0 client IDs:
 2. Android OAuth client ID for the release keystore.
 3. Web application OAuth client ID.
 
-You will use the web application client ID in the app.
+You have to use the web application client ID in your app.
 
 
 ## Setup - Detailed
