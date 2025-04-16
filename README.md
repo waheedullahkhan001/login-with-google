@@ -7,7 +7,8 @@ Basically, you need to create three OAuth 2.0 client IDs:
 1. Android OAuth client ID for the debug keystore.
 2. Android OAuth client ID for the release keystore.
 3. Web application OAuth client ID.
-and you will use the web application OAuth client ID in the app.
+
+You will use the web application client ID in the app.
 
 
 ## Setup - Detailed
